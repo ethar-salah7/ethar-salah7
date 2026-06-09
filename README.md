@@ -6,6 +6,16 @@
 
 ---
 
+### About Me
+I specialize in bridging the gap between raw data and actionable insights, focusing on performance, modern architecture, and scalability.
+
+* **Background:** ITI Data Engineering & BIS Graduate.
+* **Data Architecture:** Designing scalable Data Warehouses and automated ELT/ETL pipelines.
+* **Cloud & Serverless:** Working with modern cloud ecosystems, serverless data extraction, and robust integration.
+* **Analytics:** Transforming complex, messy data into clean, structured, and visually impactful systems.
+
+---
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ethar-salah/" target="_blank">
