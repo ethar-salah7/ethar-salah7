@@ -1,18 +1,17 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=E07A5F&width=435&lines=Ethar+Salah;Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=E07A5F&width=550&lines=%F0%9F%91%8B+Hi,+I'm+Ethar+Salah;%F0%9F%9A%80+Data+Engineer" alt="Typing SVG" />
 </p>
 
-Information Technology Institute (ITI) — Data Engineering 6-Month Program (Jan 2026 – Jun 2026)  
-Business Information Systems (BIS) Graduate  
+🎓 **Data Engineering Graduate** — Information Technology Institute (ITI) *6-Month Intensive Program* 
 
 ---
 
-### Connect with me:
+### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/ethar-salah/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="25">
-</a> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+</a>
+&nbsp;&nbsp;
 <a href="etharsalahahmed@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="25">
-</a> 
-<img src="https://komarev.com/ghpvc/?username=ethar-salah7&color=E07A5F&style=flat-square&label=Profile+Views" height="25">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+</a>
