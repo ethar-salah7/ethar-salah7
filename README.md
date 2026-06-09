@@ -1,6 +1,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=E07A5F&width=550&lines=%F0%9F%91%8B+Hi,+I'm+Ethar+Salah;Data+Engineer" alt="Typing SVG" />
 </p>
+
 ---
 
 ### About Me
