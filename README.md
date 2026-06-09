@@ -8,10 +8,10 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://linkedin.com/in/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-E07A5F?style=flat-square&logo=linkedin&logoColor=white" height="35">
+<a href="https://www.linkedin.com/in/ethar-salah/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-E07A5F?style=flat-square&logo=gmail&logoColor=white" height="35">
+<a href="etharsalahahmed@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="24">
 </a>
